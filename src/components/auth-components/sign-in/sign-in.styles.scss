@@ -1,0 +1,11 @@
+.sign-in-form{
+  display: flex;
+  flex-direction: column;
+  width: 40vh;
+}
+
+@media (max-width: 768px) {
+  .sign-in-form {
+  width: 100%;
+  }
+}
