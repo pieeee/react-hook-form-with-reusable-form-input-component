@@ -1,3 +1,5 @@
+### Directory tree of this app
+```
 |-- React App
     |-- package.json
     |-- public
@@ -25,3 +27,7 @@
             |-- auth
                 |-- auth.component.jsx
                 |-- auth.styles.scss
+```
+
+**Play around with sandbox code**
+https://codesandbox.io/s/react-hook-form-with-reusable-form-input-component-forked-02tm4
